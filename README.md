@@ -1,6 +1,4 @@
-# Doggos!
-
-Day 6 work of [#100daysofcode](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click)
+# Get-Doggos!
 
 What are some of the best things the internet has to offer? *Random dog photos!* That's exactly what this is.
 So, what are you waiting for? 
