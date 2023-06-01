@@ -5,8 +5,10 @@ So, what are you waiting for?
 Fetch some **[Doggos](https://nabin47.github.io/100-days-of-code/get-doggos/index.html)** now!
 
 ## Final Output
-<img src="./img/before-fetch.jpg" alt="Landing page" width="1462px" height="751px"/>
-<img src="./img/after-fetch.jpg" alt="Adorable doggos" width="1462px" height="751px"/>
+<p align="center">
+<img src="./img/before-fetch.jpg" alt="Landing page" width="80%" />
+<img src="./img/after-fetch.jpg" alt="Adorable doggos" width="80%"/>
+</p>
 
 ## References
 - [Frontend Masters course](https://frontendmasters.com/courses/web-development-v2/) Complete Intro to Web Development, v2
